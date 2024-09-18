@@ -1,3 +1,4 @@
 # Hello world.
-this is my  repository.
+
+This is my first repository.
 i am looking foward to learning more.
